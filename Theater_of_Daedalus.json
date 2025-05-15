@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Main menu",
+    "url": "https://cdn.jsdelivr.net/gh/Maxmusic/audio-player/raw/main/Menumaster.mp3"
+  },
+  {
+    "name": "Minotaur fight",
+    "url": "https://cdn.jsdelivr.net/gh/Maxmusic/audio-player/raw/main/Minotaurmasterv2.mp3"
+  },
+  {
+    "name": "Icarus fight (phase 1)",
+    "url": "https://cdn.jsdelivr.net/gh/Maxmusic/audio-player/raw/main/IcarusP1masterv3.mp3"
+  },
+  {
+    "name": "Icarus fight (phase 2)",
+    "url": "https://cdn.jsdelivr.net/gh/Maxmusic/audio-player/raw/main/IcarusP2masterv3.mp3"
+  },
+  {
+    "name": "Daedalus fight (phase 1)",
+    "url": "https://cdn.jsdelivr.net/gh/Maxmusic/audio-player/raw/main/DedalusP1masterv3.mp3"
+  },
+  {
+    "name": "Daedalus fight (phase 2)",
+    "url": "https://cdn.jsdelivr.net/gh/Maxmusic/audio-player/raw/main/DedalusP2master.mp3"
+  }
+]
